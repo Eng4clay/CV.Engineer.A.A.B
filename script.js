@@ -1,0 +1,1 @@
+<font-awesome-icon :icon="['fab', 'snapchat']" />
